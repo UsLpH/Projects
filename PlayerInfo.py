@@ -1,4 +1,5 @@
 #PlayerInfo.py © 2022 by UsLpH is licensed under CC BY-NC-SA 4.0
+#https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
 import os
 os.system("title UsLpH's player info       UsLpH#0001")
 from xmlrpc.client import Server
